@@ -1,0 +1,20 @@
+header .nav-link{
+    color: rgb(105, 105, 105);
+}
+header .nav-link:hover, header .nav-link:focus{
+    color: red;
+}
+header .nav-link:active{
+    color: #ffdb4d;
+}
+header .nav{
+    gap: 10px;
+}
+input[type="search"]{
+    border: none;
+}
+header .logo-text{
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 20px;
+}

@@ -1,0 +1,7 @@
+.album .card:hover{
+    outline: 4px solid #ffdb4d;
+}
+.list-group-item:hover{
+    outline: 4px solid #ffdb4d;
+    z-index: 1;
+}
